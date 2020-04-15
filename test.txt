@@ -1,5 +1,9 @@
-cou cou 2
-pas vu ?
+git commands :
 
-
-SI si
+git init 
+git remote add origin https://github.com/superfonx/test.git     
+git commit -m "third commit"  
+git add test.txt
+git push -u origin master    
+git push --all
+git log   
